@@ -11,7 +11,7 @@ Friendship is a relationship of mutual affection between people. Friendship is a
 
 ![Checkmate](https://source.unsplash.com/random/1500x1000)
 
-## Forms of friendship
+### Forms of friendship
 
 Although there are many forms of friendship, some of which may vary from place to place, certain characteristics are present in many types of bond. Such characteristics include affection, sympathy, empathy, honesty, altruism, mutual understanding, and compassion, enjoyment of each other's company, trust, and the ability to be oneself, express one's feelings, and make mistakes without fear of judgment from the friend.
 
